@@ -4,4 +4,4 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 
-- [Linear_Regression_case_study (My proj,- Data Science, University of San Francisco)](https://github.com/ArlindoDDRAlmada/Multiple_Linear_Regression1)
+- [Linear_Regression_case_study (My proj,- Data Science, University of San Francisco)](https://github.com/EdnilsonChiambo/EdnilsonChiambo/blob/main/casestudy2_sol.Rmd)
