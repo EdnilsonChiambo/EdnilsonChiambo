@@ -1,22 +1,7 @@
-### Hi, I am Ednilson , Data Analyst and a senior student at the University of San Francisco  Welcome to my portfolio! 
-----------------------------------------------------------------------------------------------------------------------
-👨‍💻 Data Analyst Projects:
-----------------------------------------------------------------------------------------------------------------------
+
+<h1><a href="https://linkedin.com/in/arlindo-almada-67986427">Hi, I'm Ednilson, Data Analyst.<br/> </a> Welcome to my Portfolio! </h1>
+
+<h2>👨‍💻 Data Analyst Projects:</h2>
 
 
-
-<!--
-
-**EdnilsonChiambo/EdnilsonChiambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Linear_Regression_case_study (My proj,- Data Science, University of San Francisco)](https://github.com/ArlindoDDRAlmada/Multiple_Linear_Regression1)
