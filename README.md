@@ -4,4 +4,4 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 
-- [Case_study_of_TweetsDataset (My proj,- Data Science, University of San Francisco)](https://github.com/EdnilsonChiambo/EdnilsonChiambo/blob/main/CaseStudy_of_tweets_DataSet)
+- [Case_study_of_TweetsDataset (My proj,- Data Science, University of San Francisco)]()
