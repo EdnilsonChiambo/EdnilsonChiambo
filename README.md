@@ -7,4 +7,8 @@
 - [Case_study_of_data (My proj,- Data Science, University of San Francisco)](https://github.com/EdnilsonChiambo/CaseStudy_of_Data)
 - [Case_study_of_Tweets_Dataset (My proj,- Data Science, University of San Francisco)](https://github.com/EdnilsonChiambo/CaseStudy_of_Tweets_DataSet)
 - [Case_study_of_mlb09_Dataset (My proj,- Data Science, University of San Francisco)](https://github.com/EdnilsonChiambo/CaseStudy_of_mlb09_DataSet)
+- [Final_Project(My proj,- Data Science, University of San Francisco)](https://github.com/EdnilsonChiambo/Final_Project)
+
+
+
 
