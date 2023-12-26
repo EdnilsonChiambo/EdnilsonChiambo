@@ -10,5 +10,7 @@
 - [Final_Project(My proj,- Data Science, University of San Francisco)](https://github.com/EdnilsonChiambo/Final_Project)
 
 
+<h2>📜 Certifications:</h2>
 
+- [Machine Learning, Stanford University - Coursera Online Course, 2023)]()
 
