@@ -10,6 +10,9 @@
 - [Online_Retail_DataSetCompany_Analysis(My proj,- Data Science, University of San Francisco)](https://github.com/EdnilsonChiambo/Final_Project)
 
 
+  
+<h2>👨‍💻 Data Scientist Projects:</h2>
+
 <h2>📜 Certifications:</h2>
 
 - [Supervised Machine Learning, Stanford University - Coursera Online Course, 2023)](https://www.coursera.org/account/accomplishments/certificate/P7PE8JPKP9DW)
