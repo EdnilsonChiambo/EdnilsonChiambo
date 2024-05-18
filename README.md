@@ -13,6 +13,7 @@
   
 <h2>👨‍💻 Data Scientist Projects:</h2>
 
+- [Data_Challenge_Regression_Model (My proj,- Data Science, University of San Francisco)](https://github.com/EdnilsonChiambo/Data-Challenge)
 <h2>📜 Certifications:</h2>
 
 - [Supervised Machine Learning, Stanford University - Coursera Online Course, 2023)](https://www.coursera.org/account/accomplishments/certificate/P7PE8JPKP9DW)
