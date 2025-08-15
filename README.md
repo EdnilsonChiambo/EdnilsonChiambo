@@ -19,4 +19,9 @@
 <h2>📜 Certifications:</h2>
 
 - [Supervised Machine Learning, Stanford University - Coursera Online Course, 2023)](https://www.coursera.org/account/accomplishments/certificate/P7PE8JPKP9DW)
+- [Foundations of Cybersecurity, Google - Coursera Online Course, 2025)](https://www.coursera.org/account/accomplishments/certificate/VBK0MMBTAH4E)
+- [ETL and Data Pipelines with Shell, Airflow and Kafka, IBM - Coursera Online Course, 2025)](https://www.coursera.org/account/accomplishments/certificate/3EJOYEZMNCF5)
+- [AWS Cloud Technical Essentials, AWS - Coursera Online Course, 2025)](https://www.coursera.org/account/accomplishments/certificate/VZ0ITDGOC1ZV)
+- [Foundations of Project Management, Google - Coursera Online Course, 2025)](https://www.coursera.org/account/accomplishments/certificate/NQW8STE65SLQ)
+  
 
